@@ -1,0 +1,4 @@
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+    from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+
+This error message states that the user used a ')' instead of a closing '}' for a opening curly bracket in the program.
