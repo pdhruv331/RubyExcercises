@@ -1,0 +1,1 @@
+# Hashes have key value pairs. Arrays dont have that

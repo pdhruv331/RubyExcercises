@@ -1,0 +1,1 @@
+ I like the ruby-doc.org/ API documentation because it is very structured and the classes and methods are easy to find through a search bar. The same is true for finding rails API documentation on api.rubyonrails.org/
